@@ -1,0 +1,48 @@
+<biodata>
+
+  <profile>
+    <no>1</no>
+    <nama>Dwiki Ahma Maulana</nama>
+    <nim>A11.2017.10751</nim>
+    <prodi>Teknik Informatika</prodi>
+    <ipk>3.89</ipk>
+    <alamat>Semarang</alamat>
+  </profile>
+
+  <profile>
+    <no>2</no>
+    <nama>Geraldi Theo Wirakusuma</nama>
+    <nim>A11.2017.10752</nim>
+    <prodi>Teknik Informatika</prodi>
+    <ipk>3.95</ipk>
+    <alamat>Kendal</alamat>
+  </profile>
+
+  <profile>
+    <no>3</no>
+    <nama>M. Aziz Sokosugi</nama>
+    <nim>A11.2017.10753</nim>
+    <prodi>Teknik Informatika</prodi>
+    <ipk>3.85</ipk>
+    <alamat>Bekasi</alamat>
+  </profile>
+
+  <profile>
+    <no>4</no>
+    <nama>Alvin Bagoes Rivaldi</nama>
+    <nim>A11.2017.10754</nim>
+    <prodi>Teknik Informatika</prodi>
+    <ipk>3.88</ipk>
+    <alamat>Kudus</alamat>
+  </profile>
+
+  <profile>
+    <no>5</no>
+    <nama>Bashirul Khorim Ramadhan</nama>
+    <nim>A11.2017.10755</nim>
+    <prodi>Teknik Informatika</prodi>
+    <ipk>3.85</ipk>
+    <alamat>Aceh</alamat>
+  </profile>
+
+</biodata>
